@@ -1,0 +1,10 @@
+from MIAS_5_Image_Processing_Functions import Intfloat
+
+from MIAS_2_Folders import DataCSV
+
+from MIAS_2_Folders import NOCroppedBenignImages
+from MIAS_2_Folders import NOCroppedMalignantImages
+from MIAS_2_Folders import NOCroppedNormalImages
+from MIAS_2_Folders import NOCroppedTumorImages
+
+Intfloat(NOCroppedBenignImages)
